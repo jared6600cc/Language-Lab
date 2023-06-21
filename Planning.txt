@@ -1,0 +1,22 @@
+0: Hello World
+--- Takes 0 command line arguments
+--- Takes 0 user input
+--- Outputs 'Hello World' to console, then ends.
+--- Topics: Console IO
+
+1: Echo Back
+--- Takes 0 command line arguments
+--- Prompts user to 'Enter string: ', string is checked against maximum string length,
+    if string is within bounds it is printed to console in brackets, otherwise the user is prompted again.
+--- Topics: Console IO
+
+2: Simple Calculator
+--- Takes 0 command line arguments
+--- Prompts user for operand, operator, and operand. 
+    Performs specified calculation & prints result to console.
+--- Topics: Console IO, Functions, Math library
+
+3: String Reverser
+--- Takes 0 command line arguments
+--- Prompts user for string, reverses string, prints result to console.
+--- Topics: Console IO, Functions, Stack ADT
